@@ -17,6 +17,7 @@
 2. [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 В качестве тестовых данных использовались данные Руководства использования KeyValidator:
+
 ##Валидные ключи:
 
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998- ОК
@@ -24,6 +25,7 @@
 * b295bc63-9f03-3b4b-af80-969b39f8c262- ОК
 * 387eedc6-12e9-3b32-9881-63b6b5e85317- ОК
 * c19a8cf9-5c3a-37c5-b7f3-d16d38a0c180- ОК
+
 ##Невалидные ключи:
 
 * 18252235-78e0-44a5-8720-556f0c7da17a- FAIL
