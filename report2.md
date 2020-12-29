@@ -55,4 +55,4 @@
 * ОС Windows 10 X64
 * Java-version build 11.0.9.1+1 
 * Git CMD
-* IntellijJ IDEA
+* IntelliJ IDEA
